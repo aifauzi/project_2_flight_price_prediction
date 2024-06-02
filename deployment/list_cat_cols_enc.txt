@@ -1,0 +1,1 @@
+["elapsedDays", "isBasicEconomy", "isNonStop", "startingAirport", "destinationAirport", "firstDepartureAirlineCode", "seasonDeparture", "firstCabinCode"]

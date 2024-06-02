@@ -1,0 +1,1 @@
+["baseFare", "seatsRemaining", "totalTravelDistance", "orderingDistance", "travelDurationInMinutes", "durationFlightInMinutes", "totalWaitingTimeTransit"]
